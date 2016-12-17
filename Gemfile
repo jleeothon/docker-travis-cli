@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'travis', '1.8.2'
+gem 'travis', '1.8.5'
